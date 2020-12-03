@@ -13,27 +13,14 @@ Below is the screen shot of the columns in the data.
 
 ![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/columns_bar.PNG)
 
+### Plot:
+
 Below is the plot comparing number of road accidents of different Age groups and between different Sex.
 
 ![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Fatal%20Accidents%20by%20Age%20and%20sex%20in%202017.jpg)
 
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+### Observations:
+1. The number of men killed in road accidents is more than number of women killed for every age group.
+2. This could be due to the fact that there are more male drivers than female drivers.
+3. By carefully observing the two largest age groups **18-25** age group and **25-35** age group, we can conclude that the Average number of Accidents per "year age" in the age group **18-25** is the greater than the age group **25-35**. Infact it is the highest among all.
+4. So,we can say younger inexperienced drivers are the cause for higher rate of accidents across both genders.

@@ -11,7 +11,7 @@ This data contains state wise statistics about number of fatal road accidents th
 
 Below is the screen shot of the columns in the data.
 
-![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/columns_bar.PNG)
+*Dataset 1* ![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/columns_bar.PNG)
 
 ### Plot:
 

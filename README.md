@@ -17,7 +17,7 @@ Below is the screen shot of the columns in the data.
 
 Below is the plot comparing number of road accidents of different Age groups and between different Sex.
 
-![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Fatal%20Accidents%20by%20Age%20and%20sex%20in%202017.jpg)
+![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Fatal%20Accidents%20by%20Age%20and%20sex%20in%202017%20plot.jpg)
 
 ### Observations:
 1. The number of men killed in road accidents is more than number of women killed for every age group.

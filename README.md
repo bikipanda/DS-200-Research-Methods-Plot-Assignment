@@ -1,2 +1,39 @@
 # DS 200 Research Methods Plot Assignment
- This repository is for the DS 200 plotting assignment
+This Repository is for the credit requirement of DS 200: Research Methods. All the plots in this repository was made possible with the data from [https://data.gov.in](https://data.gov.in). All the data used here is only relevant to India.
+
+## Bar plot
+
+### Data description: 
+
+[State/UTwise Accidents Victims Killed according to classification of Age and Sex during 2017]()
+
+This data contains state wise statistics about number of fatal road accidents that happened in the year 2017. The data is further categorized by Age groups and Sex.
+
+Below is the screen shot of the columns in the data.
+
+![alt text](https://matplotlib.org/3.3.3/_images/sphx_glr_scatter_001.png)
+
+Below is the plot comparing number of road accidents of different Age groups and between different Sex.
+
+![alt text](https://matplotlib.org/3.3.3/_images/sphx_glr_scatter_001.png)
+
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

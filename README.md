@@ -28,7 +28,7 @@ Below is the plot comparing number of road accidents of different Age groups and
 
 ### Data description: 
 
-[State/UT wise Per Capita Consumption of Petroleum Products from 2012-13 to 2018-19]()
+[State/UT wise Per Capita Consumption of Petroleum Products from 2012-13 to 2018-19](https://data.gov.in/resources/state/ut-wise-per-capita-consumption-of-petroleum-products-from-2012-1)
 
 This data contains state/UT wise statistics about consumption of Petroleum Products from 12-13 to 18-19.
 

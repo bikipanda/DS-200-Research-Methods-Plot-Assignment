@@ -88,7 +88,9 @@ Below is the Box plot comparing the trends of Petroleum Products usage in our co
 ## References
 <a id="1">[1]</a> 
 https://data.gov.in/resources/stateut-wise-accidents-victims-killed-according-classification-age-and-sex-during-2017
+
 <a id="2">[2]</a> 
 https://data.gov.in/resources/state/ut-wise-per-capita-consumption-of-petroleum-products-from-2012-1
+
 <a id="3">[3]</a> 
 https://odisha.data.gov.in/resources/clinical-anthropometric-bio-chemical-cab-2014-survey-data-district-jajapur-odisha#web_catalog_tabs_block_10

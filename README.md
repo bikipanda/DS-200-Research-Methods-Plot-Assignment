@@ -51,4 +51,4 @@ Below is the Box plot comparing the trends of Petroleum Products usage in our co
 ### Observations:
 1. The average usage of petroleum products in our country has increased by a very thin margin from 2012 to 2018.
 2. Observe the two farthest outliers for each Year, they are the union Territories, **Dadar and Nagar Havelli**(farthest) and **Daman and Diu** (closer).For these two union territories, the per capita in Kg usage of petroleum products has almost close to doubled from 706(2012) to 1160(2018) for Dadar and Nagar Havelli and 532(2012) to 910(2018) for Daman and Diu.
-3. Apart from 'Dadar and Nagar Havelli' and 'Daman and Diu' , there are two more union territories which also are outliers but not to much extent.Those are Goa and Puducherry.
+3. Apart from 'Dadar and Nagar Havelli' and 'Daman and Diu' , there are two more union territories which also are outliers but not to much extent.Those are **Goa** and **Puducherry**.

@@ -40,9 +40,9 @@ Below is the screen shot of the columns in the data.
 
 ![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Box%20Plot/Petroleum%20column.PNG)
 
-```bash
+**Note:**
 Telangana data is not available for 2012-13 and 2013-14 because it was formed in June 2014.So I copied Andhra Pradesh's data into it.
-```
+
 
 ### Plot:
 

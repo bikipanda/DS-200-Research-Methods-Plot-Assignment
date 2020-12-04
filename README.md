@@ -1,5 +1,5 @@
 # DS 200 Research Methods Plot Assignment
-This Repository is for the credit requirement of DS 200: Research Methods. All the plots in this repository was made possible with the data from [https://data.gov.in](https://data.gov.in). All the data used here is only relevant to India.
+This Repository is for the credit requirement of DS 200: Research Methods. All the plots in this repository was made possible with the data from [https://data.gov.in](https://data.gov.in) **A Digital India Initiative**. All the data used here is only relevant to India.
 
 ## Bar plot
 

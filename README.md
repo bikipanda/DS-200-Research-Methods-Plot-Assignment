@@ -80,6 +80,4 @@ Below is the Box plot comparing the trends of Petroleum Products usage in our co
 ![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Scatter%20Plot/Age%20vs%20BMI%20in%20People%20of%20Jajapur%20(Odisha)%202014.jpg)
 
 ### Observations:
-1. The average usage of petroleum products in our country has increased by a very thin margin from 2012 to 2018.
-2. Observe the two farthest outliers for each Year, they are the union Territories, **Dadar and Nagar Havelli**(farthest) and **Daman and Diu** (closer).For these two union territories, the per capita in Kg usage of petroleum products has almost close to doubled from 706(2012) to 1160(2018) for Dadar and Nagar Havelli and 532(2012) to 910(2018) for Daman and Diu.
-3. Apart from 'Dadar and Nagar Havelli' and 'Daman and Diu' , there are two more union territories which also are outliers but not to much extent.Those are **Goa** and **Puducherry**.
+1. Upon careful observation, its alarming to see that almost all the people aged below 18 to 20 i.e. children are underweight(light blue region).This suggests that malnourishment in children is a major issue in that district.

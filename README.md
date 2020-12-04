@@ -77,7 +77,9 @@ Below is the screen shot of the columns in the data.The columns **BMI** and **He
 
 ### Plot:
 
-Below is the Box plot comparing the trends of Petroleum Products usage in our country from 2012-13 to 2018-19.
+Below is the scatter plot of Age vs BMI , aim is to find any correlation or any age group prone to obese or malnutrition.
+
+**Note**: The values for BMI classification is taken from [4].
 
 ![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Scatter%20Plot/Age%20vs%20BMI%20in%20People%20of%20Jajapur%20(Odisha)%202014.jpg)
 
@@ -94,3 +96,6 @@ https://data.gov.in/resources/state/ut-wise-per-capita-consumption-of-petroleum-
 
 <a id="3">[3]</a> 
 https://odisha.data.gov.in/resources/clinical-anthropometric-bio-chemical-cab-2014-survey-data-district-jajapur-odisha#web_catalog_tabs_block_10
+
+<a id="4">[4]</a>
+https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm

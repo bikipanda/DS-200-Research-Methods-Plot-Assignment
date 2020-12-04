@@ -1,11 +1,13 @@
 # DS 200 Research Methods Plot Assignment
 This Repository is for the credit requirement of DS 200: Research Methods. All the plots in this repository was made possible with the data from [https://data.gov.in](https://data.gov.in) **A Digital India Initiative**. All the data used here is only relevant to India.
 
+Zip file with all the Plots and Codes **DS_200_Research_Methods_Plot_Assignment.zip**
+
 ## Bar plot
 
 ### Data description: 
 
-[State/UT wise Accidents Victims Killed according to classification of Age and Sex during 2017](https://data.gov.in/resources/stateut-wise-accidents-victims-killed-according-classification-age-and-sex-during-2017)
+State/UT wise Accidents Victims Killed according to classification of Age and Sex during 2017 [[1]](#1)
 
 This data contains state wise statistics about number of fatal road accidents that happened in the year 2017. The data is further categorized by Age groups and Sex.
 
@@ -81,3 +83,8 @@ Below is the Box plot comparing the trends of Petroleum Products usage in our co
 
 ### Observations:
 1. Upon careful observation, its alarming to see that almost all the people aged below 18 to 20 i.e. children are underweight(light blue region).This suggests that malnourishment in children is a major issue in that district.
+
+
+## References
+<a id="1">[1]</a> 
+(https://data.gov.in/resources/stateut-wise-accidents-victims-killed-according-classification-age-and-sex-during-2017)

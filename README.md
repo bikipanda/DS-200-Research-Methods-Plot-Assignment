@@ -34,7 +34,9 @@ This data contains state/UT wise statistics about consumption of Petroleum Produ
 
 Below is the screen shot of the columns in the data.
 
-*Dataset 2* ![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Box%20Plot/Petroleum%20column.PNG)
+*Dataset 2* 
+
+![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Box%20Plot/Petroleum%20column.PNG)
 
 ```bash
 Telangana data is not available for 2012-13 and 2013-14 because it was formed in June 2014.So I copied Andhra Pradesh's data into it.
@@ -44,7 +46,7 @@ Telangana data is not available for 2012-13 and 2013-14 because it was formed in
 
 Below is the Box plot comparing the trends of Petroleum Products usage in our country from 2012-13 to 2018-19.
 
-![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Bar%20Plot/Fatal%20Accidents%20by%20Age%20and%20sex%20in%202017%20plot.jpg)
+![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Box%20Plot/Per%20capita%20consumption%20of%20petroleum%20Products%20in%20Kg%2012-18.jpg)
 
 ### Observations:
 1. The average usage of petroleum products in our country has increased by a very thin margin from 2012 to 2018.

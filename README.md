@@ -79,7 +79,7 @@ Below is the screen shot of the columns in the data.The columns **BMI** and **He
 
 Below is the scatter plot of Age vs BMI .Aim is to find any correlation or any age group prone to obese or malnutrition.
 
-**Note**: The ranges for BMI classification in the graph legends, is taken from [4].
+**Note**: The ranges for BMI classification in the graph legends, is taken from [[4]](#4).
 
 ![alt text](https://github.com/bikipanda/DS-200-Research-Methods-Plot-Assignment/blob/main/Scatter%20Plot/Age%20vs%20BMI%20in%20People%20of%20Jajapur%20(Odisha)%202014.jpg)
 

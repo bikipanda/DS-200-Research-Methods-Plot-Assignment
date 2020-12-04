@@ -30,7 +30,7 @@ Below is the plot comparing number of road accidents of different Age groups and
 
 ### Data description: 
 
-[State/UT wise Per Capita Consumption of Petroleum Products from 2012-13 to 2018-19](https://data.gov.in/resources/state/ut-wise-per-capita-consumption-of-petroleum-products-from-2012-1)
+State/UT wise Per Capita Consumption of Petroleum Products from 2012-13 to 2018-19
 
 This data contains state/UT wise statistics about consumption of Petroleum Products from 12-13 to 18-19.
 
@@ -59,7 +59,7 @@ Below is the Box plot comparing the trends of Petroleum Products usage in our co
 
 ### Data description: 
 
-[Bio-chemical (CAB) 2014 Survey data of the district Jajapur (Odisha)](https://odisha.data.gov.in/resources/clinical-anthropometric-bio-chemical-cab-2014-survey-data-district-jajapur-odisha#web_catalog_tabs_block_10)
+Bio-chemical (CAB) 2014 Survey data of the district Jajapur (Odisha)
 
 This data contains medical data of the people living in the Jajapur district of Odisha.I have used this data to see the correlation between age and BMI for the people in that district.
 
@@ -87,4 +87,8 @@ Below is the Box plot comparing the trends of Petroleum Products usage in our co
 
 ## References
 <a id="1">[1]</a> 
-(https://data.gov.in/resources/stateut-wise-accidents-victims-killed-according-classification-age-and-sex-during-2017)
+https://data.gov.in/resources/stateut-wise-accidents-victims-killed-according-classification-age-and-sex-during-2017
+<a id="2">[2]</a> 
+https://data.gov.in/resources/state/ut-wise-per-capita-consumption-of-petroleum-products-from-2012-1
+<a id="3">[3]</a> 
+https://odisha.data.gov.in/resources/clinical-anthropometric-bio-chemical-cab-2014-survey-data-district-jajapur-odisha#web_catalog_tabs_block_10

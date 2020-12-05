@@ -88,11 +88,13 @@ Below is the scatter plot of Age vs BMI .Aim is to find any correlation or any a
 2. People from age 30 to 40 are more likely to be over weight or have Obesity.It is the age range(30-50) where the average BMI increases like a camel hump and then again decreases.
 
 ## References
-<a id="1">[1]</a> 
-https://data.gov.in/resources/stateut-wise-accidents-victims-killed-according-classification-age-and-sex-during-2017
+<a id="1">[1]</a>
+[State/UT-wise Accidents Victims Killed according to classification of Age and Sex during 2017]
+(https://data.gov.in/resources/stateut-wise-accidents-victims-killed-according-classification-age-and-sex-during-2017)
 
 <a id="2">[2]</a> 
-https://data.gov.in/resources/state/ut-wise-per-capita-consumption-of-petroleum-products-from-2012-1
+[State/UT-wise Per Capita Consumption of Petroleum Products from 2012-13 to 2018-19]
+(https://data.gov.in/resources/state/ut-wise-per-capita-consumption-of-petroleum-products-from-2012-1)
 
 <a id="3">[3]</a> 
 https://odisha.data.gov.in/resources/clinical-anthropometric-bio-chemical-cab-2014-survey-data-district-jajapur-odisha#web_catalog_tabs_block_10
